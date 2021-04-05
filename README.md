@@ -6,3 +6,4 @@ All the necesary files and project will be stored there.
 
 So far, I am working with:
 Python: Jupyter
+        qtPython5 (for side project)
