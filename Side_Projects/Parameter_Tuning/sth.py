@@ -1,0 +1,1 @@
+#pyuic5 -x LearnPythonQt.ui -o app.py
