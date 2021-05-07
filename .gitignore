@@ -132,3 +132,18 @@ dmypy.json
 AllData/
 Tutorials/
 Part_01/02_Module_ComputerVision/6_PROJECT_Finding_Lane_Lines/examples/
+Part_01/02_Module_ComputerVision/10_FinalProject/camera_calibration/
+
+Part_01/02_Module_ComputerVision/10_FinalProject/examples/
+
+Part_01/02_Module_ComputerVision/10_FinalProject/input_videos/
+
+*.pdf
+
+Part_01/02_Module_ComputerVision/10_FinalProject/not important/CarND-Advanced-Lane-Lines-master/LICENSE
+
+Part_01/02_Module_ComputerVision/10_FinalProject/not important/CarND-Advanced-Lane-Lines-master/
+
+Part_01/02_Module_ComputerVision/10_FinalProject/output_videos/
+
+Part_01/02_Module_ComputerVision/10_FinalProject/test_images/
